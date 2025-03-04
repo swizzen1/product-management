@@ -6,7 +6,9 @@
 </ol>
 <h2>Auth routes</h2>
 <h4>Accept: application/json</h4>
-<h4>Example login credentials: email - admin@example.com password - 12345678 (string)</h4>
+<h4>Example login credentials: 
+    email - admin@example.com
+    password - 12345678 (string)</h4>
 <ol>
     <li>http://127.0.0.1:8000/api/login</li>
     <li>http://127.0.0.1:8000/api/register</li>
