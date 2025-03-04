@@ -6,7 +6,7 @@
 </ol>
 <h2>Auth routes</h2>
 <h4>Accept: application/json</h4>
-<h4>Example login credentials: </br>
+<h4>Example login credentials: </br> </br>
     email - admin@example.com  </br>
     password - 12345678 (string)
 </h4>
