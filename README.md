@@ -1,5 +1,6 @@
 <h2>Usage</h2>
 <ol>
+    <li>git clonne https://github.com/swizzen1/product-management</li>
     <li>composer i</li>
     <li>php artisan migrate</li>
     <li>php artisan db:seed</li>
