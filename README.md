@@ -16,7 +16,7 @@
 </ol>
 <h4>returns: Bearer token</h4>
 
-<h3>Product endpoints</h3>
+<h3>Product endpoints (Needs Bearer token)</h3>
 <ol>
     <li>GET http://127.0.0.1:8000/api/products/ - returns all products</li>
     <li>PUT http://127.0.0.1:8000/api/products/{id} - updates product</li>
