@@ -12,8 +12,8 @@
     password - 12345678 (string)
 </h4>
 <ol>
-    <li>http://127.0.0.1:8000/api/login</li>
-    <li>http://127.0.0.1:8000/api/register</li>
+    <li>(POST) http://127.0.0.1:8000/api/login</li>
+    <li>(POST) http://127.0.0.1:8000/api/register</li>
 </ol>
 <h4>returns: Bearer token</h4>
 
